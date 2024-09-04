@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="5dESy3CNTPQsx0sL7qq8">
-    <mxGraphModel dx="1909" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SV-68p5oGKli7hMYEzu-5" value="Admin" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="100" height="50" as="geometry" />
+          <mxGeometry x="880" y="606" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9SV-68p5oGKli7hMYEzu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SV-68p5oGKli7hMYEzu-7" target="9SV-68p5oGKli7hMYEzu-16">
           <mxGeometry relative="1" as="geometry">
@@ -28,10 +28,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9SV-68p5oGKli7hMYEzu-7" value="User" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="100" height="70" as="geometry" />
+          <mxGeometry x="980" y="150" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9SV-68p5oGKli7hMYEzu-8" value="Support Staff" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="460" width="100" height="50" as="geometry" />
+          <mxGeometry x="840" y="348" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9SV-68p5oGKli7hMYEzu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SV-68p5oGKli7hMYEzu-8" target="9SV-68p5oGKli7hMYEzu-33">
           <mxGeometry relative="1" as="geometry" />
@@ -150,6 +150,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SV-68p5oGKli7hMYEzu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=695;exitDy=370;exitPerimeter=0;entryX=0.82;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9SV-68p5oGKli7hMYEzu-2" target="9SV-68p5oGKli7hMYEzu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SV-68p5oGKli7hMYEzu-60" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;USER INTERACTION &amp;amp; FINANCIAL SERVICES" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="319" width="490" height="812" as="geometry" />
+        </mxCell>
+        <mxCell id="9SV-68p5oGKli7hMYEzu-61" value="dashboard service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="420" width="220" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="9SV-68p5oGKli7hMYEzu-62" value="view dashboard" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9SV-68p5oGKli7hMYEzu-61">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9SV-68p5oGKli7hMYEzu-63" value="print data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9SV-68p5oGKli7hMYEzu-61">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9SV-68p5oGKli7hMYEzu-64" value="data based on day/month/year" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9SV-68p5oGKli7hMYEzu-61">
+          <mxGeometry y="78" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9SV-68p5oGKli7hMYEzu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SV-68p5oGKli7hMYEzu-63" target="9SV-68p5oGKli7hMYEzu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9SV-68p5oGKli7hMYEzu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SV-68p5oGKli7hMYEzu-62" target="9SV-68p5oGKli7hMYEzu-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
